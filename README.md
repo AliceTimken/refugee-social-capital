@@ -5,13 +5,13 @@ R script for refugee social capital and integration project (uses ACS data).
 Data citation: Steven Ruggles, Sarah Flood, Ronald Goeken, Josiah Grover, Erin Meyer, Jose Pacas and Matthew Sobek. IPUMS USA: Version 10.0 [dataset]. Minneapolis, MN: IPUMS, 2020. https://doi.org/10.18128/D010.V10.0.
 
 
-This is code corresponds to the project NETWORKS, ACCESS AND COMPETITION: IMMIGRANT SOCIAL CAPITAL AND US REFUGEE INTEGRATION (11/2020- )
+This is code corresponds to the project NETWORKS, ACCESS AND COMPETITION: IMMIGRANT SOCIAL CAPITAL AND US REFUGEE INTEGRATION (11/2020- ).
 
 Abstract
 What factors facilitate successful refugee integration? Might co-nationals, meaning individuals from the same country, support the integration process? It appears refugees are asking the same questions. Almost one fifth of refugees in the US opt for in-country secondary migration, often correlating with two factors: a destination’s relatively low unemployment rate and its existing co-national network. Combined, these pull factors can be understood to indicate sources of social capital to migrating refugees, who seek larger and higher quality co-national networks to provide greater access to resources. While extant quantitative studies hold that co-national social capital has a positive effect on immigrant economic integration, it is less clear how it affects non-economic integration types, which are also crucial to substantive community membership. Conducted within a social capital theory framework, this large-N comparative analysis utilizes a quasi-natural experiment to examine the effect of a state’s share of co-nationals and employment rate on three types of refugee integration: economic, linguistic and navigational. My results suggest that co-national social capital is influential in immigrant integration and that the variables that refugees often prioritize during secondary migration – low unemployment rate and existing co-national network – may effectively encourage multiple types of immigrant integration. This is the first large-N quantitative study to emphasize the relationship between co-national networks and non-economic immigrant integration outcomes.
 
 
-Integration = B1*co-national size + B2*employment + B3*(co-national * employment) + A
+Integration = B1*(co-national size) + B2*(employment) + B3*(co-national * employment) + A
 
 
 
